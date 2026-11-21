@@ -1,2 +1,3 @@
 # email-signature
-Hosted images for my email signature
+
+Public images used in my email signature. Please do not add anything else here.
